@@ -7,6 +7,7 @@
   --pied-green-selection: #1a9181;
   --shadow: #666666;
   --pied-white: #fafafa;
+  --cv-glass: rgba(250, 250, 250, 0.63);
 }
 * {
   box-sizing: border-box;

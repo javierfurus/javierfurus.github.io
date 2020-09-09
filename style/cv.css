@@ -1,0 +1,7 @@
+body {
+    background-color: white;
+  }
+.navbar-bg-custom {
+    backdrop-filter: blur(10px); /*This is for the blur. DOES NOT WORK ON MOZILLA OR SAFARI! Silly Javier, gotta be fancy, huh?*/
+    background-color: var(--cv-glass);
+}
