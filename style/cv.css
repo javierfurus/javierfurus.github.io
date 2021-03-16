@@ -3,7 +3,7 @@ body {
   }
 
 article {
-  width: 90%;
+  width: 90% !important;
   text-align: center;
 }
 .navbar-bg-custom {
